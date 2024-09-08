@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+  font-size: 40px;
+}
+
+p {
+  color: tomato;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: lightgray;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+}
